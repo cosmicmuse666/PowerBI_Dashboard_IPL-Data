@@ -1,4 +1,4 @@
-# 🏏 IPL 2010 Power BI Dashboard
+# 🏏 IPL Data Analysis with Power BI 
 
 An interactive Power BI dashboard analyzing the IPL season from 2008 — packed with team stats, player highlights, venue insights, and more.
 
